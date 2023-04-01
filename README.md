@@ -1,3 +1,4 @@
+add note from add-self-introduction-conflict branch
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
 ## Preparation
